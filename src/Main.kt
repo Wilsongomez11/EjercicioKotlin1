@@ -1,4 +1,6 @@
 fun main() {
    println("hola mundo")
-   println("Primer ejercicio kotlin")
+   println("Wilson")
+   println("Escuchar Musica")
+
 }
